@@ -1,9 +1,9 @@
 {
-  "name": "liberaleslaplata",
+  "name": "liberaleslaplata.com.ar",
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://liberaleslaplata.com.ar",
+  "homepage": "https://liberaleslaplata.com.ar/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
