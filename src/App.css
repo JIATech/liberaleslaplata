@@ -1,0 +1,17 @@
+.countdown-wrapper {
+  background-color: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: white; /* White text color */
+  width: 100vw;
+  position: relative;
+  text-align: center;
+}
+
+.fade-out {
+  opacity: 0;
+  transition: opacity 1s ease-out; /* Ajusta la duración de la transición */
+}
+
+.fade-in {
+  opacity: 1;
+  transition: opacity 1s ease-in;
+}
