@@ -33,7 +33,7 @@ const VideoBackground: React.FC<VideoBackgroundProps> = ({ children }) => {
             filter: "brightness(0.5) blur(2px)",
           }}
         >
-          <source src="/assets/Bandera.mp4" type="video/mp4" />
+          <source src="../../src/assets/Bandera.mp4" type="video/mp4" />
           Tu navegador no soporta el tag de video.
         </video>
         {children}
